@@ -1,5 +1,8 @@
 # Data and code for “Skeletal Structure and Makeup Effects in Facial Attractiveness Judgments”
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20538436.svg)](https://doi.org/10.5281/zenodo.20538436)
+
+
 This repository contains the public data files associated with the article “Skeletal Structure and Makeup Effects in Facial Attractiveness Judgments,” accepted for publication in *Perception*.
 
 ## Contents
@@ -30,8 +33,12 @@ The shared files allow reproduction of the reported analyses from the anonymized
 
 ## Citation
 
-If you use these data or code, please cite the associated article:
+If you use these data or code, please cite the associated article and the Zenodo record.
 
-Akihiro Kawase and Rikuto Yamamoto. (in press). Skeletal structure and makeup effects in facial attractiveness judgments. Perception. https://doi.org/10.1177/03010066261459982
+Associated article:
 
-The bibliographic details, including publication year, volume, issue, and page/article number, will be updated once the article is formally published.
+Kawase, A., & Yamamoto, R. (in press). Skeletal Structure and Makeup Effects in Facial Attractiveness Judgments. Perception. https://doi.org/10.1177/03010066261459982
+
+Data and code:
+
+Kawase, A., & Yamamoto, R. (2026). Data and code for “Skeletal Structure and Makeup Effects in Facial Attractiveness Judgments” (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20538436
