@@ -30,6 +30,10 @@ The shared files allow reproduction of the reported analyses from the anonymized
 
 ## Citation
 
-If you use these data, please cite the associated article:
+Citation
 
-Kawase, A. and Yamamoto, R. “Skeletal Structure and Makeup Effects in Facial Attractiveness Judgments.” *Perception*.
+If you use these data or code, please cite the associated article:
+
+Kawase, A., & Yamamoto, R. (in press). Skeletal structure and makeup effects in facial attractiveness judgments. Perception. https://doi.org/10.1177/03010066261459982
+
+The bibliographic details, including publication year, volume, issue, and page/article number, will be updated once the article is formally published.
