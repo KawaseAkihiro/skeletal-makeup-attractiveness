@@ -30,8 +30,6 @@ The shared files allow reproduction of the reported analyses from the anonymized
 
 ## Citation
 
-Citation
-
 If you use these data or code, please cite the associated article:
 
 Akihiro Kawase and Rikuto Yamamoto. (in press). Skeletal structure and makeup effects in facial attractiveness judgments. Perception. https://doi.org/10.1177/03010066261459982
