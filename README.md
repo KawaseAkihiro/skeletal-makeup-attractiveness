@@ -34,6 +34,6 @@ Citation
 
 If you use these data or code, please cite the associated article:
 
-Kawase, A., & Yamamoto, R. (in press). Skeletal structure and makeup effects in facial attractiveness judgments. Perception. https://doi.org/10.1177/03010066261459982
+Akihiro Kawase and Rikuto Yamamoto. (in press). Skeletal structure and makeup effects in facial attractiveness judgments. Perception. https://doi.org/10.1177/03010066261459982
 
 The bibliographic details, including publication year, volume, issue, and page/article number, will be updated once the article is formally published.
